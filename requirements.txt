@@ -1,0 +1,6 @@
+json
+pandas
+pandas
+openai
+dotenv
+pycaret
