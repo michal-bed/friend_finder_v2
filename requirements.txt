@@ -1,6 +1,5 @@
 json
 pandas
-pandas
-openai
-dotenv
+streamlit
+plotly
 pycaret
